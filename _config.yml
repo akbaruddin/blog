@@ -82,4 +82,5 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/akbaruddin/blog.git
-  branch: 
+  branch: ''
+  message: ''
