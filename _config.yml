@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: uilab
-subtitle:
+title: Lab Works
+subtitle: Small Tasks
 description:
 keywords:
-author: uilab.in
-language:
+author: Akbar Uddin
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://uilab.in
+url: https://akbaruddin.github.io
 root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -75,7 +75,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: cactus
 theme_config:
-    colorscheme: dark
+    colorscheme: white
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
